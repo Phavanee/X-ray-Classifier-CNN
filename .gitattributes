@@ -1,0 +1,2 @@
+*.hdf5 filter=lfs diff=lfs merge=lfs -text
+oversampled_pneumonia_classifier.hdf5 filter=lfs diff=lfs merge=lfs -text
