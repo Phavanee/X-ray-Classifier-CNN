@@ -15,3 +15,7 @@ The model is a convolutional neural network trained on chest X-ray images. It ac
 ## Dataset
 
 Training data sourced from the Kaggle Chest X-Ray Images (Pneumonia) dataset by Paul Mooney.
+
+## More Information
+
+More information about the project is available in FINAL REPORT.pdf in the same repository.
