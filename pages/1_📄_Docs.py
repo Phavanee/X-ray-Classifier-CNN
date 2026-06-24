@@ -62,9 +62,9 @@ with st.container(border=True) :
         """)
 
 
-st.header("Special Thanks")
-st.write("""
-    1. Dr. Chan, for teaching us and letting us have fun with this project.
-    2. Tyler-Simons, his app layout made me realize you can use the sidebar to upload images. The app 
-    would've looked so bad if I hadn't known that. (https://github.com/tyler-simons)
-    """)
+# st.header("Special Thanks")
+# st.write("""
+#     1. Dr. Chan, for teaching us and letting us have fun with this project.
+#     2. Tyler-Simons, his app layout made me realize you can use the sidebar to upload images. The app 
+#     would've looked so bad if I hadn't known that. (https://github.com/tyler-simons)
+#    """)
