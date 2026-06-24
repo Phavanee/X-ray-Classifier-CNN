@@ -15,12 +15,12 @@ st.write("""
     diagnose anything other than pneumonia, but it's a fun start!!).
     """)
 
-st.header("The Model")
-st.write("""
-    The model is a convolutional neural network (CNN) built from scratch. Our group trained it on 
-    a dataset obtained from Kaggle, authored by Paul Mooney. If you came here for some X-rays to use, 
-    here you go:
-""")
+# st.header("The Model")
+# st.write("""
+#     The model is a convolutional neural network (CNN) built from scratch. Our group trained it on 
+#     a dataset obtained from Kaggle, authored by Paul Mooney. If you came here for some X-rays to use, 
+#     here you go:
+# """)
 
 
 st.header("X-ray samples")
