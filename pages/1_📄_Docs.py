@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.set_page_config(page_title="Documentation", page_icon="📄")
-st.sidebar.success("Made with ❤️ by :\n\n1. Phavanee Katriya\n2. Amelia Adlina\n3. Athirah Syafiqah\n4. Aina Syafina")
+# st.sidebar.success("Made with ❤️ by :\n\n1. Phavanee Katriya\n2. Amelia Adlina\n3. Athirah Syafiqah\n4. Aina Syafina")
 
 st.title('Docs')
 st.write(
